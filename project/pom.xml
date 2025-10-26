@@ -58,6 +58,7 @@
                 <activeByDefault>true</activeByDefault>
             </activation>
             <properties>
+                <sonar.organization>ismaeeeelshaikh</sonar.organization>     
                 <!-- Optional URL to server. Default value is http://localhost:9000 -->
                 <sonar.host.url>
                     http://127.0.0.1:9000/

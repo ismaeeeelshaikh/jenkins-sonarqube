@@ -61,7 +61,7 @@
                 <sonar.organization>ismaeeeelshaikh</sonar.organization>
                 <!-- Optional URL to server. Default value is http://localhost:9000 -->
                 <sonar.host.url>
-                    http://127.0.0.1:9000/
+                    http://sonarqube:9000/
                 </sonar.host.url>
             </properties>
         </profile>
